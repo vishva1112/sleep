@@ -1,0 +1,105 @@
+{
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "mobiles",
+        "description": "Quickly capture what on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed. Grab a photo of a poster, receipt or document and easily organize or find it later in search. ",
+        "imageUrl": "https://images.hindustantimes.com/img/2021/06/08/1600x900/IMG_5223_1623145084295_1623145098953.jpg",
+        "price": 299
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "mobiles",
+        "description": "Quickly capture what on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed. Grab a photo of a poster, receipt or document and easily organize or find it later in search. ",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2GX8a0ByvEAzXkWbIdqUZHVJSbPZprIZgvw&usqp=CAU",
+        "price": 199
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "apples",
+        "description": "Quickly capture what on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed. Grab a photo of a poster, receipt or document and easily organize or find it later in search. ",
+        "imageUrl": "https://t3.ftcdn.net/jpg/03/10/32/02/360_F_310320273_I9rR1l7918MJoZ0GRHGIBgZl9F9ShEXq.jpg",
+        "price": 50
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 6,
+        "name": "shopping",
+        "description": "Quickly capture what on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed. Grab a photo of a poster, receipt or document and easily organize or find it later in search. ",
+        "imageUrl": "https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074075.jpg?size=626&ext=jpg",
+        "price": 175
+      },
+      "id": 4
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "mobiles",
+      "description": "Quickly capture what on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed. Grab a photo of a poster, receipt or document and easily organize or find it later in search. ",
+      "imageUrl": "https://images.hindustantimes.com/img/2021/06/08/1600x900/IMG_5223_1623145084295_1623145098953.jpg",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "name": "mobiles",
+      "description": "Quickly capture what on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed. Grab a photo of a poster, receipt or document and easily organize or find it later in search. ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2GX8a0ByvEAzXkWbIdqUZHVJSbPZprIZgvw&usqp=CAU",
+      "price": 199
+    },
+    {
+      "id": 3,
+      "name": "apples",
+      "description": "Quickly capture what on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed. Grab a photo of a poster, receipt or document and easily organize or find it later in search. ",
+      "imageUrl": "https://t3.ftcdn.net/jpg/03/10/32/02/360_F_310320273_I9rR1l7918MJoZ0GRHGIBgZl9F9ShEXq.jpg",
+      "price": 50
+    },
+    {
+      "id": 4,
+      "name": "spiderman",
+      "description": "Quickly capture what on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed. Grab a photo of a poster, receipt or document and easily organize or find it later in search. ",
+      "imageUrl": "https://i.pinimg.com/originals/db/63/88/db6388d73dd958c0b95282d2db17404b.png",
+      "price": 500
+    },
+    {
+      "id": 5,
+      "name": "batman",
+      "description": "Quickly capture what on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed. Grab a photo of a poster, receipt or document and easily organize or find it later in search. ",
+      "imageUrl": "https://www.dccomics.com/sites/default/files/field/image/BatmanImposter_blog_60ece9fd09aa63.84448014.jpg",
+      "price": 150
+    },
+    {
+      "id": 6,
+      "name": "shopping",
+      "description": "Quickly capture what on your mind and get a reminder later at the right place or time. Speak a voice memo on the go and have it automatically transcribed. Grab a photo of a poster, receipt or document and easily organize or find it later in search. ",
+      "imageUrl": "https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074075.jpg?size=626&ext=jpg",
+      "price": 175
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
